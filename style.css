@@ -39,12 +39,12 @@ nav ul li{
 }
 
 .container{
-   min-height: 82vh;
+   min-height: 72vh;
    background-color: black;
    color: white;
    font-family: 'Varela Round', sans-serif;
    display: flex;
-   margin: 23px auto;
+   margin: 0px auto;
    width: auto;
    height:  auto;
    /* border-radius: 12px; */
@@ -57,11 +57,12 @@ nav ul li{
     bottom: 0;
     height: 100px;
     background-color: #222831;
-    color: white;
+    color: #EEEEEE;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column; 
+    padding-top: 3vh;
 }
 
 .icons{
@@ -109,8 +110,9 @@ nav ul li{
 
 .songInfo{
     position: absolute;
-    left: 10vw;
+    left: 10vh;
     font-family: 'Varela Round', sans-serif;
+    padding-left: 5vh;
 }
 
 .songInfo img{
