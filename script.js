@@ -14,12 +14,12 @@ let songs = [
     {songName: "Intentions - Justin Bieber", filePath: "songs/2.mp3", coverPath: "covers/intentions.jpg"},
     {songName: "Light Switch - Charlie Puth", filePath: "songs/3.mp3", coverPath: "covers/light_switch.jpg"},
     {songName: "Long Time - Yung Filly", filePath: "songs/4.mp3", coverPath: "covers/long_time.jpg"},
-    {songName: "Tauba - Badshah", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Excuses - AP Dhillon", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Pasoori - Ali Sethi, Shae Gill", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
-    {songName: "Insane - AP Dhillon, Gurinder Gill", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Tumhari Kasam - Salam-e-Ishq", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
-    {songName: "Na Jaana - Salam-e-Ishq", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
+    {songName: "Tauba - Badshah", filePath: "songs/5.mp3", coverPath: "covers/tauba.jpg"},
+    {songName: "Excuses - AP Dhillon", filePath: "songs/6.mp3", coverPath: "covers/excuses.jpg"},
+    {songName: "Pasoori - Ali Sethi, Shae Gill", filePath: "songs/7.mp3", coverPath: "covers/pasoori.jpg"},
+    {songName: "Insane - AP Dhillon, Gurinder Gill", filePath: "songs/8.mp3", coverPath: "covers/insane.jpg"},
+    {songName: "New Thing (Prod. by ZICO)", filePath: "songs/9.mp3", coverPath: "covers/new_thing.jpg"},
+    {songName: "Shut Down - BLACKPINK", filePath: "songs/10.mp3", coverPath: "covers/shut_down.png"},
 ]
 
 songItems.forEach((element, i)=>{ 

@@ -110,9 +110,9 @@ nav ul li{
 
 .songInfo{
     position: absolute;
-    left: 10vh;
+    left: 10vw;
     font-family: 'Varela Round', sans-serif;
-    padding-left: 5vh;
+    padding: 0px ;
 }
 
 .songInfo img{
