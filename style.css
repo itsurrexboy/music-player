@@ -9,6 +9,55 @@ body{
     padding: 0;
 }
 
+.tileArea2 {
+    padding: 30px;
+    width: auto;
+    height: auto;
+}
+
+.tileArea{
+    padding: 60px;
+    width: auto;
+    height: auto;
+    display: flex;
+}
+
+/* card start */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 150px;
+    height: 200px;
+    /* width: 120px; */
+    margin: 10px;
+    text-align: center;
+    font-family: arial;
+    font-size: 80%;
+    padding: 7px;
+    /* display: flexbox; */
+  }
+  
+  /* .price {
+    color: grey;
+    font-size: 22px;
+  } */
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  /* .card button:hover {
+    opacity: 7;
+  } */
+/* card end */
+
 nav{
     font-family: 'Ubuntu', sans-serif;
 }
@@ -45,6 +94,7 @@ nav ul li{
    font-family: 'Varela Round', sans-serif;
    display: flex;
    margin: 0px auto;
+   max-width: 200pc;
    width: auto;
    height:  auto;
    /* border-radius: 12px; */
